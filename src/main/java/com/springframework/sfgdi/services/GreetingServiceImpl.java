@@ -2,7 +2,7 @@ package com.springframework.sfgdi.services;
 
 public class GreetingServiceImpl implements GreetingService {
     @Override
-    public String sayHello() {
+    public String sayGreeting() {
         return "Hello World";
     }
 }
